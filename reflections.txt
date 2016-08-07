@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+
+The most important skill here is definitely looking up reference to find what I want. Overall, HTML itself has been fairly easy to understand as a markup language. If you get the structure, tags and the idea of trees, you¡¯ve basically got all the basics of HTML. However, all that being said, it still took me quite a while to finish the project. Most of the time is spent on trying to find the right element. Worst of all is that I tried to find the functionality that doesn¡¯t even exist! The reason is that I used LaTeX a lot in college, and I thought there will be similar functionality in HTML that will help me generate annotations. It turns out that there is no such thing in HTML. No wonder it takes forever.
+
+What underlines is a deeper question, that is, what you should expect HTML to do and what you should not. The question is going to become more and more important as CSS and JavaScript come into play. If you are looking for functions that belong to one language in the reference of another, or something that doesn¡¯t exist, you will waste a lot of time. It will take time and reflection to get such sense.
