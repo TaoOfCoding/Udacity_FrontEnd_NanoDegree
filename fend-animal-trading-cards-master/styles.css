@@ -1,0 +1,39 @@
+#interesting-fact {
+  font-style: italic;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.facts {
+  list-style-type: none;
+}
+
+.facts-list {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.card {
+  border: 1px solid lightgrey;
+  padding: 10px;
+  width: 300px;
+  box-shadow: 5px 5px 2px 2px #ccc;
+}
+
+.information-area {
+  border: 1px solid lightgrey;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.animal-image {
+  width: 300px;
+}
+
+.information {
+  font-family: cursive;
+}
